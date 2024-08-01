@@ -1,4 +1,4 @@
-#include "FanSpeedOverlayGui.hpp"
+#include "fanSpeedOverlayGui.hpp"
 
 FanSpeedOverlayGui::FanSpeedOverlayGui() {}
 

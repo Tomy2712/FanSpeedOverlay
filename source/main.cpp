@@ -2,7 +2,7 @@
 
 #include <tesla.hpp>
 
-#include "FanSpeedOverlayGui.hpp"
+#include "fanSpeedOverlayGui.hpp"
 
 class FanSpeedOverlay : public tsl::Overlay {
 public:
